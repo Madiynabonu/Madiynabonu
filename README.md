@@ -2,9 +2,6 @@
 
 # I'm a Java Backend Developer
 
-## 🌐 Socials:
-
-
 # <b><i>Skills:</i></b>
 
 ### PL/PGSQL, Jakarta EE 10,Servlet 6,
