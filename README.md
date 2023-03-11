@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Elshod;Welcome+to+my+GitHub+Profile!">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Madina;Welcome+to+my+GitHub+Profile!">
 </h1>
 <br>
 
